@@ -11,4 +11,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" width="60" />
 </div>
 
-![Snake animation](https://github.com/vbell0/vbell0/blob/output/github-snake-dark.svg)
+<!-- ![Snake animation](https://github.com/vbell0/vbell0/blob/output/github-snake-dark.svg) -->
